@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetWorkshop", "NugetWorkshop\NugetWorkshop.csproj", "{621F6AF3-0CF1-42A2-BE85-32AA76213B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SloganMaker", "SloganMaker\SloganMaker.csproj", "{C29983EA-2564-4F5B-B55C-C0DCF282534E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{1BBEF19C-0888-4FC5-ABEF-43F3F11F6D2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621F6AF3-0CF1-42A2-BE85-32AA76213B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621F6AF3-0CF1-42A2-BE85-32AA76213B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621F6AF3-0CF1-42A2-BE85-32AA76213B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621F6AF3-0CF1-42A2-BE85-32AA76213B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29983EA-2564-4F5B-B55C-C0DCF282534E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29983EA-2564-4F5B-B55C-C0DCF282534E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29983EA-2564-4F5B-B55C-C0DCF282534E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29983EA-2564-4F5B-B55C-C0DCF282534E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBEF19C-0888-4FC5-ABEF-43F3F11F6D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBEF19C-0888-4FC5-ABEF-43F3F11F6D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBEF19C-0888-4FC5-ABEF-43F3F11F6D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBEF19C-0888-4FC5-ABEF-43F3F11F6D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
