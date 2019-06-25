@@ -1,9 +1,8 @@
 ﻿using System;
-using Contracts;
 
 namespace SloganMaker
 {
-    public class EcommerceSloganMachine : ISloganMachine
+    public class EcommerceSloganMachine
     {
         private static readonly string[] partOne =
         {

@@ -1,8 +1,6 @@
-using Contracts;
-
 namespace NugetWorkshop
 {
-    public class MySloganMachine : ISloganMachine
+    public class MySloganMachine
     {
         public string GenerateSlogan()
         {
