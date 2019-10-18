@@ -1,4 +1,5 @@
 ﻿using System;
+using SloganMaker;
 
 namespace NugetWorkshop
 {
@@ -22,11 +23,11 @@ namespace NugetWorkshop
             } while (input != ConsoleKey.Q);
         }
 
-        private readonly MySloganMachine sloganMachine;
+        private readonly EcommerceSloganMachine sloganMachine;
 
         private Program()
         {
-            sloganMachine = new MySloganMachine();
+            sloganMachine = new EcommerceSloganMachine();
         }
 
         private string GenerateSlogan()
